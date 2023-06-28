@@ -1,0 +1,5 @@
+name: NightVision
+author: LU
+version: 1.0.0
+api: 4.0.0
+main: nightvision\Main
